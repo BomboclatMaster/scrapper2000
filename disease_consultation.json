@@ -1,0 +1,704 @@
+{
+    "diagnoses": {
+      "Spinal Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Spine Specialist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "MRI Scan", "Description": "Spinal MRI", "Quantity": 1, "Unit Price": 5000, "Total": 5000},
+          {"Item": "Surgery", "Description": "Spinal Fusion Surgery", "Quantity": 1, "Unit Price": 100000, "Total": 100000},
+          {"Item": "Medication", "Description": "Post-Surgery Painkillers", "Quantity": 2, "Unit Price": 300, "Total": 600}
+        ]
+      },
+      "Back Pain": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "General Practitioner Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "X-Ray", "Description": "Back X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Physiotherapy", "Description": "Back Pain Physiotherapy", "Quantity": 5, "Unit Price": 800, "Total": 4000},
+          {"Item": "Medication", "Description": "Painkillers", "Quantity": 1, "Unit Price": 300, "Total": 300}
+        ]
+      },
+      "Scoliosis": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Orthopedic Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "X-Ray", "Description": "Spinal X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Brace", "Description": "Scoliosis Brace", "Quantity": 1, "Unit Price": 20000, "Total": 20000},
+          {"Item": "Surgery", "Description": "Spinal Correction Surgery", "Quantity": 1, "Unit Price": 120000, "Total": 120000}
+        ]
+      },
+      "Cancer": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Oncologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Chemotherapy", "Description": "Chemotherapy Session", "Quantity": 6, "Unit Price": 15000, "Total": 90000},
+          {"Item": "Lab Test", "Description": "Biopsy", "Quantity": 1, "Unit Price": 8000, "Total": 8000},
+          {"Item": "Medication", "Description": "Cancer Drugs", "Quantity": 1, "Unit Price": 12000, "Total": 12000}
+        ]
+      },
+      "Leukemia": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Hematologist Consultation", "Quantity": 1, "Unit Price": 1800, "Total": 1800},
+          {"Item": "Lab Test", "Description": "Bone Marrow Test", "Quantity": 1, "Unit Price": 10000, "Total": 10000},
+          {"Item": "Chemotherapy", "Description": "Leukemia Chemotherapy", "Quantity": 6, "Unit Price": 20000, "Total": 120000},
+          {"Item": "Medication", "Description": "Targeted Therapy Drugs", "Quantity": 1, "Unit Price": 15000, "Total": 15000}
+        ]
+      },
+      "Lymphoma": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Oncologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Lab Test", "Description": "Lymph Node Biopsy", "Quantity": 1, "Unit Price": 8000, "Total": 8000},
+          {"Item": "Radiation Therapy", "Description": "Radiation Session", "Quantity": 10, "Unit Price": 5000, "Total": 50000},
+          {"Item": "Medication", "Description": "Immunotherapy Drugs", "Quantity": 1, "Unit Price": 25000, "Total": 25000}
+        ]
+      },
+      "Trauma": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Emergency Doctor Consultation", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "X-Ray", "Description": "Trauma X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Surgery", "Description": "Emergency Trauma Surgery", "Quantity": 1, "Unit Price": 50000, "Total": 50000},
+          {"Item": "Medication", "Description": "Painkillers", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "Acute Illness": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "General Practitioner Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Blood Test", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Antibiotics", "Quantity": 1, "Unit Price": 400, "Total": 400},
+          {"Item": "Hospitalization", "Description": "Overnight Stay", "Quantity": 1, "Unit Price": 3000, "Total": 3000}
+        ]
+      },
+      "Heart Attack": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Cardiologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "ECG", "Description": "Electrocardiogram", "Quantity": 1, "Unit Price": 1000, "Total": 1000},
+          {"Item": "Angioplasty", "Description": "Heart Angioplasty", "Quantity": 1, "Unit Price": 80000, "Total": 80000},
+          {"Item": "Medication", "Description": "Blood Thinners", "Quantity": 1, "Unit Price": 1200, "Total": 1200}
+        ]
+      },
+      "Anemia": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Hematologist Consultation", "Quantity": 1, "Unit Price": 1800, "Total": 1800},
+          {"Item": "Lab Test", "Description": "Complete Blood Count", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Medication", "Description": "Iron Supplements", "Quantity": 1, "Unit Price": 400, "Total": 400},
+          {"Item": "Procedure", "Description": "Blood Transfusion", "Quantity": 1, "Unit Price": 5000, "Total": 5000}
+        ]
+      },
+      "Blood Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Hematologist Consultation", "Quantity": 1, "Unit Price": 1800, "Total": 1800},
+          {"Item": "Lab Test", "Description": "Coagulation Test", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Anticoagulants", "Quantity": 1, "Unit Price": 800, "Total": 800},
+          {"Item": "Procedure", "Description": "Plasmapheresis", "Quantity": 1, "Unit Price": 10000, "Total": 10000}
+        ]
+      },
+      "Childhood Diseases": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatrician Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Blood Test", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Antibiotics", "Quantity": 1, "Unit Price": 300, "Total": 300},
+          {"Item": "Vaccination", "Description": "Childhood Vaccination", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Vaccinations": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatrician Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Vaccination", "Description": "MMR Vaccine", "Quantity": 1, "Unit Price": 800, "Total": 800},
+          {"Item": "Vaccination", "Description": "Hepatitis B Vaccine", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Growth Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatric Endocrinologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Growth Hormone Test", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Growth Hormone Therapy", "Quantity": 1, "Unit Price": 5000, "Total": 5000}
+        ]
+      },
+      "Skin Conditions": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Dermatologist Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Skin Biopsy", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Topical Cream", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "STDs": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Dermatologist Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "STD Panel Test", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Antibiotics", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Psoriasis": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Dermatologist Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Medication", "Description": "Topical Steroids", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Phototherapy", "Description": "UV Light Therapy", "Quantity": 5, "Unit Price": 1000, "Total": 5000}
+        ]
+      },
+      "Workplace Illness": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Occupational Health Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Toxicology Screening", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Symptom Relief", "Quantity": 1, "Unit Price": 300, "Total": 300}
+        ]
+      },
+      "Exposure Risks": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Occupational Health Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Heavy Metal Test", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Chelation Therapy", "Quantity": 1, "Unit Price": 5000, "Total": 5000}
+        ]
+      },
+      "Toxicology": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Toxicologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Toxin Screening", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Medication", "Description": "Antidote", "Quantity": 1, "Unit Price": 3000, "Total": 3000}
+        ]
+      },
+      "Chronic Conditions": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Internal Medicine Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Blood Test", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Chronic Disease Medication", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Internal Diseases": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Internal Medicine Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Comprehensive Metabolic Panel", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Disease-Specific Medication", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Endocrine Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Endocrinologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Hormone Panel Test", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Hormone Replacement Therapy", "Quantity": 1, "Unit Price": 1200, "Total": 1200}
+        ]
+      },
+      "Heart Diseases": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Cardiologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "ECG", "Description": "Electrocardiogram", "Quantity": 1, "Unit Price": 1000, "Total": 1000},
+          {"Item": "Medication", "Description": "Beta Blockers", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Hypertension": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Cardiologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Lab Test", "Description": "Blood Pressure Monitoring", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Antihypertensive Drugs", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Arrhythmias": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Cardiologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "ECG", "Description": "Electrocardiogram", "Quantity": 1, "Unit Price": 1000, "Total": 1000},
+          {"Item": "Medication", "Description": "Antiarrhythmic Drugs", "Quantity": 1, "Unit Price": 1200, "Total": 1200}
+        ]
+      },
+      "Heart Surgery": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Cardiothoracic Surgeon Consultation", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Surgery", "Description": "Heart Bypass Surgery", "Quantity": 1, "Unit Price": 150000, "Total": 150000},
+          {"Item": "Medication", "Description": "Post-Surgery Painkillers", "Quantity": 2, "Unit Price": 500, "Total": 1000},
+          {"Item": "Hospitalization", "Description": "ICU Stay", "Quantity": 5, "Unit Price": 5000, "Total": 25000}
+        ]
+      },
+      "Vascular Disease": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Vascular Surgeon Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Lab Test", "Description": "Doppler Ultrasound", "Quantity": 1, "Unit Price": 3000, "Total": 3000},
+          {"Item": "Medication", "Description": "Blood Thinners", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Aneurysms": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Vascular Surgeon Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Imaging", "Description": "CT Angiography", "Quantity": 1, "Unit Price": 8000, "Total": 8000},
+          {"Item": "Surgery", "Description": "Aneurysm Repair", "Quantity": 1, "Unit Price": 120000, "Total": 120000}
+        ]
+      },
+      "Public Health": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Public Health Specialist Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Vaccination", "Description": "Flu Vaccine", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Education", "Description": "Health Awareness Program", "Quantity": 1, "Unit Price": 2000, "Total": 2000}
+        ]
+      },
+      "Infectious Diseases": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Infectious Disease Specialist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Pathogen Screening", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Medication", "Description": "Antibiotics", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Preventive Care": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "General Practitioner Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Vaccination", "Description": "Hepatitis B Vaccine", "Quantity": 1, "Unit Price": 1000, "Total": 1000},
+          {"Item": "Lab Test", "Description": "Routine Blood Test", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "Surgical Anesthesia": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Anesthesiologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Anesthesia", "Description": "General Anesthesia", "Quantity": 1, "Unit Price": 5000, "Total": 5000},
+          {"Item": "Monitoring", "Description": "Post-Anesthesia Monitoring", "Quantity": 1, "Unit Price": 2000, "Total": 2000}
+        ]
+      },
+      "Critical Care": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Intensivist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "ICU Stay", "Description": "Intensive Care Unit", "Quantity": 3, "Unit Price": 8000, "Total": 24000},
+          {"Item": "Medication", "Description": "Critical Care Drugs", "Quantity": 1, "Unit Price": 3000, "Total": 3000}
+        ]
+      },
+      "Post-Op Recovery": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Surgeon Follow-Up", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Physiotherapy", "Description": "Post-Surgery Rehab", "Quantity": 5, "Unit Price": 800, "Total": 4000},
+          {"Item": "Medication", "Description": "Painkillers", "Quantity": 1, "Unit Price": 300, "Total": 300}
+        ]
+      },
+      "Diabetes": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Endocrinologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Blood Glucose Test", "Quantity": 1, "Unit Price": 400, "Total": 400},
+          {"Item": "Medication", "Description": "Insulin", "Quantity": 1, "Unit Price": 700, "Total": 700}
+        ]
+      },
+      "Thyroid Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Endocrinologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Thyroid Function Test", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Medication", "Description": "Thyroid Hormone Replacement", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "Metabolic Syndromes": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Endocrinologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Metabolic Panel", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Metabolic Regulators", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Depression": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Psychiatrist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Therapy", "Description": "Cognitive Behavioral Therapy", "Quantity": 5, "Unit Price": 1000, "Total": 5000},
+          {"Item": "Medication", "Description": "Antidepressants", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Anxiety": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Psychiatrist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Therapy", "Description": "Counseling Session", "Quantity": 5, "Unit Price": 800, "Total": 4000},
+          {"Item": "Medication", "Description": "Anti-Anxiety Drugs", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "Schizophrenia": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Psychiatrist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Antipsychotics", "Quantity": 1, "Unit Price": 1000, "Total": 1000},
+          {"Item": "Therapy", "Description": "Group Therapy", "Quantity": 10, "Unit Price": 500, "Total": 5000}
+        ]
+      },
+      "Brain Tumors": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Neurosurgeon Consultation", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Imaging", "Description": "MRI Scan", "Quantity": 1, "Unit Price": 8000, "Total": 8000},
+          {"Item": "Surgery", "Description": "Brain Tumor Removal", "Quantity": 1, "Unit Price": 200000, "Total": 200000}
+        ]
+      },
+      "Spinal Cord Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Neurosurgeon Consultation", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Imaging", "Description": "Spinal MRI", "Quantity": 1, "Unit Price": 8000, "Total": 8000},
+          {"Item": "Surgery", "Description": "Spinal Cord Surgery", "Quantity": 1, "Unit Price": 150000, "Total": 150000}
+        ]
+      },
+      "Traumatic Brain Injury": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Neurosurgeon Consultation", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Imaging", "Description": "CT Scan", "Quantity": 1, "Unit Price": 5000, "Total": 5000},
+          {"Item": "Surgery", "Description": "Brain Surgery", "Quantity": 1, "Unit Price": 180000, "Total": 180000}
+        ]
+      },
+      "Lung Surgery": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Thoracic Surgeon Consultation", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Surgery", "Description": "Lung Resection", "Quantity": 1, "Unit Price": 120000, "Total": 120000},
+          {"Item": "Medication", "Description": "Post-Surgery Antibiotics", "Quantity": 1, "Unit Price": 800, "Total": 800},
+          {"Item": "Hospitalization", "Description": "ICU Stay", "Quantity": 3, "Unit Price": 5000, "Total": 15000}
+        ]
+      },
+      "Vascular Procedures": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Vascular Surgeon Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Procedure", "Description": "Angioplasty", "Quantity": 1, "Unit Price": 50000, "Total": 50000},
+          {"Item": "Medication", "Description": "Blood Thinners", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Acute Respiratory Illnesses": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pulmonologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Chest X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Bronchodilators", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "Asthma": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pulmonologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Pulmonary Function Test", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Inhalers", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "COPD": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pulmonologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Spirometry Test", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "COPD Inhalers", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Kidney Disease": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Nephrologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Kidney Function Test", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Medication", "Description": "Kidney Disease Medication", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Chronic Kidney Disease": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Nephrologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Dialysis", "Description": "Hemodialysis Session", "Quantity": 3, "Unit Price": 5000, "Total": 15000},
+          {"Item": "Medication", "Description": "Phosphate Binders", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Dialysis": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Nephrologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Dialysis", "Description": "Hemodialysis Session", "Quantity": 3, "Unit Price": 5000, "Total": 15000},
+          {"Item": "Medication", "Description": "Erythropoietin Injections", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Post-Mortem Analysis": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Forensic Pathologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Procedure", "Description": "Autopsy", "Quantity": 1, "Unit Price": 10000, "Total": 10000},
+          {"Item": "Lab Test", "Description": "Toxicology Screening", "Quantity": 1, "Unit Price": 5000, "Total": 5000}
+        ]
+      },
+      "Forensic Pathology": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Forensic Pathologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Procedure", "Description": "Autopsy", "Quantity": 1, "Unit Price": 10000, "Total": 10000},
+          {"Item": "Lab Test", "Description": "DNA Analysis", "Quantity": 1, "Unit Price": 8000, "Total": 8000}
+        ]
+      },
+      "Digestive Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Gastroenterologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Endoscopy", "Quantity": 1, "Unit Price": 5000, "Total": 5000},
+          {"Item": "Medication", "Description": "Proton Pump Inhibitors", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "IBS": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Gastroenterologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Stool Analysis", "Quantity": 1, "Unit Price": 800, "Total": 800},
+          {"Item": "Medication", "Description": "IBS Medication", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "Liver Diseases": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Gastroenterologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Liver Function Test", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Medication", "Description": "Liver Disease Medication", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Pediatric Heart Diseases": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatric Cardiologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Echocardiogram", "Quantity": 1, "Unit Price": 3000, "Total": 3000},
+          {"Item": "Medication", "Description": "Pediatric Heart Medication", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Congenital Heart Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatric Cardiologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Surgery", "Description": "Heart Defect Repair", "Quantity": 1, "Unit Price": 120000, "Total": 120000},
+          {"Item": "Medication", "Description": "Post-Surgery Medication", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Hypertension in Children": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatric Cardiologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Blood Pressure Monitoring", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Pediatric Antihypertensives", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "Metabolic Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Endocrinologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Metabolic Panel", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Metabolic Regulators", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Physical Rehabilitation": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Physiatrist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Therapy", "Description": "Physical Therapy Session", "Quantity": 10, "Unit Price": 800, "Total": 8000},
+          {"Item": "Equipment", "Description": "Rehabilitation Equipment", "Quantity": 1, "Unit Price": 5000, "Total": 5000}
+        ]
+      },
+      "Chronic Pain": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pain Management Specialist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Painkillers", "Quantity": 1, "Unit Price": 600, "Total": 600},
+          {"Item": "Therapy", "Description": "Chronic Pain Therapy", "Quantity": 5, "Unit Price": 1000, "Total": 5000}
+        ]
+      },
+      "Musculoskeletal Disorder": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Orthopedic Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Muscle Relaxants", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "Aging Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Geriatrician Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Comprehensive Geriatric Assessment", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Geriatric Medication", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Chronic Illnesses": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Internal Medicine Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Blood Test", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Chronic Disease Medication", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Geriatric Care": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Geriatrician Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Geriatric Screening", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Geriatric Medication", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Varicose Veins": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Vascular Surgeon Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Procedure", "Description": "Varicose Vein Surgery", "Quantity": 1, "Unit Price": 30000, "Total": 30000},
+          {"Item": "Medication", "Description": "Compression Stockings", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Pediatric Surgery": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatric Surgeon Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Surgery", "Description": "Pediatric Surgery", "Quantity": 1, "Unit Price": 50000, "Total": 50000},
+          {"Item": "Medication", "Description": "Post-Surgery Medication", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Congenital Defects": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatric Surgeon Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Surgery", "Description": "Congenital Defect Repair", "Quantity": 1, "Unit Price": 80000, "Total": 80000},
+          {"Item": "Medication", "Description": "Post-Surgery Medication", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Abdominal Disorders in Children": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pediatric Surgeon Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Surgery", "Description": "Abdominal Surgery", "Quantity": 1, "Unit Price": 60000, "Total": 60000},
+          {"Item": "Medication", "Description": "Post-Surgery Medication", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Urinary Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Urologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Urine Analysis", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Urinary Tract Medication", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "Kidney Stones": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Urologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Imaging", "Description": "CT Scan", "Quantity": 1, "Unit Price": 5000, "Total": 5000},
+          {"Item": "Procedure", "Description": "Lithotripsy", "Quantity": 1, "Unit Price": 30000, "Total": 30000}
+        ]
+      },
+      "Prostate Cancer": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Urologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "PSA Test", "Quantity": 1, "Unit Price": 1000, "Total": 1000},
+          {"Item": "Surgery", "Description": "Prostatectomy", "Quantity": 1, "Unit Price": 80000, "Total": 80000}
+        ]
+      },
+      "Ear Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "ENT Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Audiometry Test", "Quantity": 1, "Unit Price": 800, "Total": 800},
+          {"Item": "Medication", "Description": "Ear Drops", "Quantity": 1, "Unit Price": 300, "Total": 300}
+        ]
+      },
+      "Nose Conditions": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "ENT Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Nasal Endoscopy", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Nasal Spray", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "Throat Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "ENT Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Throat Swab", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Throat Lozenges", "Quantity": 1, "Unit Price": 200, "Total": 200}
+        ]
+      },
+      "Bone Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Orthopedic Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Bone Density Test", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Bone Health Supplements", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Joint Problems": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Orthopedic Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Joint X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Joint Pain Medication", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "Fractures": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Orthopedic Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Imaging", "Description": "X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Procedure", "Description": "Fracture Repair", "Quantity": 1, "Unit Price": 30000, "Total": 30000}
+        ]
+      },
+      "Arthritis": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Rheumatologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Rheumatoid Factor Test", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Medication", "Description": "Anti-Inflammatory Drugs", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Lupus": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Rheumatologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "ANA Test", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Immunosuppressants", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Musculoskeletal Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Rheumatologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Muscle Enzyme Test", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Medication", "Description": "Muscle Relaxants", "Quantity": 1, "Unit Price": 500, "Total": 500}
+        ]
+      },
+      "Neurological Disorders": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Neurologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "EEG", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Neurological Medication", "Quantity": 1, "Unit Price": 800, "Total": 800}
+        ]
+      },
+      "Epilepsy": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Neurologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "EEG", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Medication", "Description": "Antiepileptic Drugs", "Quantity": 1, "Unit Price": 600, "Total": 600}
+        ]
+      },
+      "Parkinson’s Disease": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Neurologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Lab Test", "Description": "Neurological Assessment", "Quantity": 1, "Unit Price": 2500, "Total": 2500},
+          {"Item": "Medication", "Description": "Parkinson’s Medication", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Medical Imaging": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Radiologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Imaging", "Description": "CT Scan", "Quantity": 1, "Unit Price": 5000, "Total": 5000},
+          {"Item": "Imaging", "Description": "MRI Scan", "Quantity": 1, "Unit Price": 8000, "Total": 8000}
+        ]
+      },
+      "Cancer Detection": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Oncologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Lab Test", "Description": "Biopsy", "Quantity": 1, "Unit Price": 8000, "Total": 8000},
+          {"Item": "Imaging", "Description": "PET Scan", "Quantity": 1, "Unit Price": 15000, "Total": 15000}
+        ]
+      },
+      "Diagnostic Imaging": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Radiologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Imaging", "Description": "X-Ray", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Imaging", "Description": "Ultrasound", "Quantity": 1, "Unit Price": 3000, "Total": 3000}
+        ]
+      },
+      "Cancer Treatment": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Oncologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Chemotherapy", "Description": "Chemotherapy Session", "Quantity": 6, "Unit Price": 15000, "Total": 90000},
+          {"Item": "Radiation Therapy", "Description": "Radiation Session", "Quantity": 10, "Unit Price": 5000, "Total": 50000}
+        ]
+      },
+      "Radiation Therapy": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Radiation Oncologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Radiation Therapy", "Description": "Radiation Session", "Quantity": 10, "Unit Price": 5000, "Total": 50000},
+          {"Item": "Medication", "Description": "Radiation Side Effect Management", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      },
+      "Tumor Treatment": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Oncologist Consultation", "Quantity": 1, "Unit Price": 2000, "Total": 2000},
+          {"Item": "Surgery", "Description": "Tumor Removal", "Quantity": 1, "Unit Price": 100000, "Total": 100000},
+          {"Item": "Chemotherapy", "Description": "Chemotherapy Session", "Quantity": 6, "Unit Price": 15000, "Total": 90000}
+        ]
+      },
+      "Throat Conditions": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "ENT Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Throat Swab", "Quantity": 1, "Unit Price": 500, "Total": 500},
+          {"Item": "Medication", "Description": "Throat Lozenges", "Quantity": 1, "Unit Price": 200, "Total": 200}
+        ]
+      },
+      "Nose Diseases": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "ENT Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Lab Test", "Description": "Nasal Endoscopy", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Nasal Spray", "Quantity": 1, "Unit Price": 400, "Total": 400}
+        ]
+      },
+      "Anesthesia": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Anesthesiologist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Anesthesia", "Description": "General Anesthesia", "Quantity": 1, "Unit Price": 5000, "Total": 5000},
+          {"Item": "Monitoring", "Description": "Post-Anesthesia Monitoring", "Quantity": 1, "Unit Price": 2000, "Total": 2000}
+        ]
+      },
+      "Pain Management": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Pain Management Specialist Consultation", "Quantity": 1, "Unit Price": 1500, "Total": 1500},
+          {"Item": "Medication", "Description": "Painkillers", "Quantity": 1, "Unit Price": 600, "Total": 600},
+          {"Item": "Therapy", "Description": "Pain Management Therapy", "Quantity": 5, "Unit Price": 1000, "Total": 5000}
+        ]
+      },
+      "Disease Prevention": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Public Health Specialist Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Vaccination", "Description": "Hepatitis B Vaccine", "Quantity": 1, "Unit Price": 1000, "Total": 1000},
+          {"Item": "Education", "Description": "Preventive Health Workshop", "Quantity": 1, "Unit Price": 1500, "Total": 1500}
+        ]
+      },
+      "Health Promotion": {
+        "billing_items": [
+          {"Item": "Consultation", "Description": "Public Health Specialist Consultation", "Quantity": 1, "Unit Price": 1200, "Total": 1200},
+          {"Item": "Education", "Description": "Health Promotion Campaign", "Quantity": 1, "Unit Price": 3000, "Total": 3000},
+          {"Item": "Screening", "Description": "Health Screening", "Quantity": 1, "Unit Price": 1000, "Total": 1000}
+        ]
+      }
+    }
+}

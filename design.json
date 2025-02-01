@@ -1,0 +1,2322 @@
+{
+    "Mauritius Nursing Council": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Ministry of Health & Quality of Life - Mauritius": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Haemophilia Association of Mauritius (HAM)": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Pharmaceutical Association of Mauritius (P A M)": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Trident Healthcare": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Vakil Kumar Leelodharry": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Ajanta Pharma (Mauritius)": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Mauritius Medical Council": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Ravivarman Chelliah": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Ministry of Health & Quality of Life (Mauritius) - Clinic": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Allergan Pharmaceuticals Mauritius": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Skyworld Clinique": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Mr Arnaud De Baritault": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Medicare Mauritius": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Leelodharry V K": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Vinod Kumar Balakrishnan": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Mr Marc Antoine Desplancke": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Vijayesing Dinassing": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "British American Hospitals Enterprise Limited (Bahel) - Mauritius": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Mauritius Qualifications Authority": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "University of Mauritius": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Glaxosmithkline Beecham - Mauritius": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Deepti Itasha Thacoor-Sithanen": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Veeseshta Koonjah": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Hyperpharm - Mauritius": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Rohan Nitten Mundil": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Khooshhal Indur": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Mehta Raaka Rai Moorooteea": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Mogana Ganeshan": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Zia Iqbal Carrim": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Yuk Chiang Yap San Min": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Mohammad Iqbal Issack": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Preetam Kona Herkanaidu": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Yovan Parikshat Rai Mahadeb": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Reshvin Matoo": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Aegle Clinic": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Chanseet Golap": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "The Mauritius Pharmacy (Seegobin)": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Chandveensingh Rambans Dookun": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Pankaj Wadhwa": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "La Clinique Mauricienne": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "La Clinique Mauricienne - Orthopaedic Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Fair Trade Mauritius": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Agarwals Eye Hospital": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Dixshi Hurry": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Anichem Pharmacy": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Clinic Candos": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "New Souillac Hospital - Pharmacy": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Brijanan Gooljar": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Novartis Mauritius": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "World Health Organisation (WHO) - Mauritius Liaison Office": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "New Souillac Hospital - Diabetes & Vascular Health Centre": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "New Souillac Hospital": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Chemin Grenier Pharmacy": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Mauritius Institute of Health": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Agarwal Eye Hospital - Anaesthetics Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Glaxo Smithkline SA (Pty) Ltd - Mauritius": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Poly Consult": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Oomesh Reebye": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Christiane Helga May": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Caroline Community Health Centre": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "University of Mauritius - Management Office": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Mitradeo Sharma Rampadarath": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Vedavruttji Ancharaz": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Separation Scientific (Sepsci) SA (Pty) Ltd - Mauritius": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Sewin Sungkur": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Mr Ashraf Mohammad Dauhoo": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Meetheelesh Kumar Abeeluck": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Bruno Cheong Hospital - Surgery Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Preeatum Ancharaz": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Manish Rai Sookha": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Bruno Cheong Hospital - Cardiology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "The Mauritius Pharmacy": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Sr Francis Supparayen": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Avinash Seeburrun": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Bruno Cheong Hospital - Internal Medicine Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Victoria Hospital - Endocrinology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Bruno Cheong Hospital - Pharmacy": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Bruno Cheong Hospital - Paediatrics Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Bruno Cheong Hospital - Orthopaedic Surgery Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Bruno Cheong Hospital - Nephrology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Rajeev Jeeha": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Victoria Hospital - Gastroenterology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Bruno Cheong Hospital - Endocrinology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Victoria Hospital - Pulmonology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Nandagopen Narayanen": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Mahmade Rechad Amide": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Victoria Hospital - Emergency Medicine": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Victoria Hospital - Central Health Laboratory": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Kalim Bolaky Cabinet Medical": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Mohamed Gaffoor Bholah": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Kabir Raj Vicky Naga": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Ashwin Aubeeluck": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Muhammad Yusuf Ali Rassool": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Mohammad Kalim Bolaky": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Lan Cheong Wah Claude Bernard": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Victoria Hospital - Pharmacy": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Pravin Kumar Oogarah": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Ng Fat Kwong Luc Ng Ying Kin": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Vikramsingh Kim Curran": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Cardiology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Vidyavrattjee Ancharaz": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Kunal Varma Bheecarry": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Dharanjay Busgopal": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Bruno Cheong Hospital - Psychiatry Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Mohammad Yusha Oozeer": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Dhanesswur Choonee": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Mr Mohammad Bilaal Dauhoo": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Brown Sequard Mental Healthcare Hospital": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Miss Ameera Keenoo": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Chandra Shekar Ramdaursingh": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Mayur Bhowgeerutty": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Tarkeswarnath Bachoo": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Victoria Hospital": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Denis LI Ting Fon LI Kam Wa": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Edouard Leung Shing": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Sanjivsing Ramlochun": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Francois Tat Yuen Leung Kune Chong": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Jacques Jean-Pierre Vaulbert De Chantilly": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Bruno Cheong Hospital": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Bruno Cheong Hospital - Anaesthetics Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Dalila Mooraby": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Aswinee Kumar Karooa": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Rassool Muhammad Yusuf Ali": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Brown Sequard Mental Healthcare Hospital - Psychiatry Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Muhammad Sajeed Foondun": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Abdel Nasser Emritte": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Reshad Kurrimbukus": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Karamdass Janeshwar Nangu": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Brown Sequard Mental Healthcare Hospital - Pharmacy": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Pravesh Panchoo": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Bruno Cheong Hospital - Rheumatology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Clinique du Bon Pasteur - Pulmonology Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Clinique du Bon Pasteur - Internal Medicine Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Kavita Devi Khamajeet": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique du Bon Pasteur - Surgery Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Pravish Rai Sookha": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Pouranan Veeraragoo": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Pang Ngah Shin (Pierrot) Chitson": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Yogendra Kumar Matabudul": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Ganessen Chinien": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Mithu Sooknundun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Mr Bilaal Busawon": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "C-Care Grand Baie - Paediatric Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Mehta Mithi Sooknundun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Yogendranathsing (Rishnesh) Unmar": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Aslam Joorawon": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Ms Tania Dewulf": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Mr David Braunecker": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Poly Consult - Paediatric Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Ranjeev Deerpalsing": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Claude Bernard Lan Cheong Wah": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "C-Care Grand Baie": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Hansraj Reetoo": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Khooshund Ramlugon": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Hans Roy Durgadu": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Ryan Ramkalawon": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique du Nord - Pharmacy": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Beebeejaun Beebee Mehjabeen": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Clinique du Nord - Orthopaedic Surgery Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Poly Consult - Speech Therapy Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Mohammad Zeyad Abdoola": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Bibi Shamimah Edoo": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Ragini Sonah": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Sr Bissessur Dyah": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Dharamraj Luchmun": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Clinique du Nord - Surgery Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Sachin Koomar Ramdhany": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Louis Pierre Roland Donat": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Sr Chinapiel Krishsenn": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique du Nord - Anaesthetics Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Mr D'Hotman De Villiers D'Hotman": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Clinique du Nord - Obstetrics & Gynaecology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Javed Dowlut": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr AG Jeetoo Hospital": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Sr Joysury Veerjendra": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Rishi Kumar Gooljar": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Joseph Roger Maurice Tennant": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Gooljar Rishi Kumar": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Atchia Nawfal Ahmad Hassam": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Archemics": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Clinique du Bon Pasteur - Orthopaedic dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Goorooduth Koonjah": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Nawfal Ahmad Hassam Atchia": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Mohammad Fadil Ben Arshad Rujubali": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Tarun Kumar Mautadin": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "C-Care Grand Baie - Radiology Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique du Nord - Cardiology Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Mohammad Javed Dowlut": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Mubareka Rubeena Alleesaib": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Koonjah G": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Mr Avinash Juness": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Kestrel Medical Centre": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Hulkoree S": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Biomedical Emporium": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique du Bon Pasteur - Paediatric Ward": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Kevin Bootun": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Nelvina Packiry Poulle": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "C-Care Grand Baie - Internal Medicine Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Hulkoree Ackmez Ibni Mutalib": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Maythilisharan Rambhojun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Tashvin Kumar Ramma": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Unicorn": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Clinique du Nord - Ear, Nose & Throat Surgery Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "The Curis Clinic": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Montagne Longue Area Health Centre": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Dinesh Deerpaul": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Ashwinee Devi Deepchand": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Aspen Global Incorporated": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Poly Consult - Cardiology Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Sheik Mohammad Iqbal Lalloo": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Shadaab Hulkoree": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Poly Consult - Internal Medicine Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Imteaz Mohamadhosen": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Himadevi Ramburn-Samjhu": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Busgopal D": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Sheila Mudhoo": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Vinayagum Veeraragoo": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Poly Consult - Endocrinology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Mr Sadeck Vawda": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Jawaharlal Nehru Hospital - Internal Medicine Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Grays Inc": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Esoof A A": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Khileswaree Soondur": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Deerren Matadeen": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Poly Consult - Gynaecology & Obstetrics Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Poly Consult - Neurology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Jawaharlal Nehru Hospital - Pharmacy": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Jean Jose Isabelle": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Oaklands Medical Practice": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Dushyant Dissipal Purmanan": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Arvindsing Ramchurn": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Ms Yaseena Utin": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Roopesh Teewaree Jaggeshar": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Khalill Peeroo": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Mahmad Seedick Beebeejaun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Amanullah Ahmad Essoof": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Port Mathurin Pharmacie": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Chen on LI Yim": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Rose Hill Dental Clinic": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Mr Basant Singh Jankee": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Ms Vanesha Chittoo": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Nitin Kumar Aucharaz": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Beebeejaun M S": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Bruno Cheong Hospital - Clinic": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Mridula Suresh Naga": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "La Clinique Mauricienne - Obstetrics & Gynaecology Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Ackmez Ibni Mutalib Hulkoree": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Satyajit Kumar Cheetoo": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Clinique du Bon Pasteur": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Clinique du Bon Pasteur - Obstetrics & Gynaecology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Clinique du Bon Pasteur - Anaesthetics Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Marie Emmanuella Aurelie Boucherville": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique du Bon Pasteur - Cardiology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Manish Suresh Naga": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Avinash Beezadhur": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "LI Yim C O": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Lock Son K C A Y": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Rajagopal Soondron": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Marie Desiree Pascale Dinan": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Soobodsing Mareeachalee": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Keong Chao Ah Yee (Alain) Lock Son": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Nareshlall Burton": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "La Clinique Mauricienne - Pharmacy": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Vishwas Teelucksingh Mohabeer": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Rohit Chutturdharry Burumdayal": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Bholah P D": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Zeennat Banu Aumeerally": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Rheumatology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Medical Heathcare Speciality": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Meetranand Thakoor": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Prithviraj Oree": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Surgery Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Mr Dhiraj Neehaul": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Ramdaursingh C S": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Subhraj Mudoo": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Mr Hwa Yen Henry Chan": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "C-Care Darn\u00e9 - Nephrology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Atchia M A": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Danielle Wong": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Neerunjun Gopee": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "C-Care Darn\u00e9 - Obstetrics & Gynaecology Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Prema Devi Bholah": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Vinod Nundloll": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Urology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Area Health Centre": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Nephrology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Mr Rajduth Bundhun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Muhammad Suhail Keenoo": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Davy Ip Min Wan": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Fatmah Bibi Rajah": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Deolall Mogun": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Neurosurgery Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Keenoo Muhammad Suhail": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Mohammad Iqbal Dhuny": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Deenoo Dinish": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Mary Esmyot Ramlochund": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Subodhananda Vyas Nundloll": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dhuny M I": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Obstetrics & Gynaecology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "La Ferme Area Health Centre": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Sookesh Hurday": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Mahendra Kumar Awotar": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Beegoo S K": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Boojhawon N V": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Nina Vassilievna Boojhawon": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Rabindranath Kowlessur Jugessur": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Burahee Moostakim": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Surgery Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Sheik Mohammad Irfaan Mohungoo": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Dinish Deenoo": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Joseph Gerard Fran\u00e7ois Tadebois": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Mrs Asha Boodhoowa": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Orthopaedic Surgery Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Nazir S N S A R": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Gayanan Chummun": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Dikshan Shakti-Anand Daby": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Premanand Ramgoolam": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Deshmukh Reebye": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Sayed Nizan Sayed Abdull Rashid Nazir": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Modern Dental Care": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Mohamed Zaher Abdus Haniff Gendoo": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Psychiatry Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Vasant Chand Goodoory": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Physiotherapy Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Ms Rajshree Bhugwant": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Oomesh Kumar Toofanny": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Kalianee Badry": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Pulmonology Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Arye Kumar Jagessur": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Upshant Kumar Bachoo": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Ismael Ibrahim Atchia": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Hon Pin Jeremy": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Satianand Coonjul": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Dweejendra Chummun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Sudesh Govindranath Dewnarain": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Cabinet Dr Daby DS-A": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Rishi Ram Doobaree": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Leessit Sharma Hulloowan": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Mohammad Nooruddin Jahn": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Nazima Bibi Soohun-Dreepaul": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "C-Care Wellkin - Internal Medicine Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Moostakim Burahee": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Kenny Foh Shin Lan Cheong Wah": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Paediatric Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "C-Care Wellkin - Microbiology Ward": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "C-Care Darn\u00e9 - Neurosurgery Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Mohith-De Muinck Keizer E E": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "C-Care Darn\u00e9 - Paediatric Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Shashi Kumar Panchcoory": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "C-Care Wellkin - Orthopaedic Surgery Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "C-Care Wellkin - Nephrology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Asha Devi Verma": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Sailesh Kumar Beegoo": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Goolaub S S B M": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Aarti Ragini Seebah": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "C-Care Darn\u00e9 - Urology Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Mohammad Ali Soobratty": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Taariq Hussein Nuckchady": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Videshwary Seeram-Indur": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Shree Swamee Bassoodev Maharaz Goolaub": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "C-Care Wellkin - Accident & Emergency Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "C-Care Wellkin - Ear, Nose & Throat Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Shailendrasing (Singh) Dosieah": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Cardiac Centre": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Dermatology Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Dentistry Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Shaheen Bibi Aubdool Essackjee": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Anaesthetics Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "C-Care Darn\u00e9 - Radiology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Luckshmanraj Mungur": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Endocrinology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Cardiology Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Eleanor Elisabeth Mohith-De Muinck Keizer": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Gastroenterology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Sillani Caulloo-Permala": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique du Nord": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Anaesthetics Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Dr Yashley Sookun": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Pharmacy": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "C-Care Wellkin - Dermatology Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Ritesh Chumun": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Sr Sooveedha Nundlall": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Priscilla Gujadhur": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "C-Care Wellkin - Obstetrics & Gynaecology Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Mukesh Nowbutsingh Seebah": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Jahn Medical Centre": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Jaynandra Kumar Singh Dusowoth": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Endocrinology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Evin Rye Ramdenee": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Boodhoo Ramesh Khemraj": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Curepipe Area Health Centre": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Deoraz Appiah": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Priya Devi Toofanny (Ramphul)": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Inayat Sameer Mowlah": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Rishi Vishal Luckheeram": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Centre Medical Du Nord - Ear, Nose & Throat Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Keshin Anand Rampersad": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH)": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Paediatrics Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Anasthetics Dept": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Dr Vadim Kush Badry": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Maunick Karishma Caullychurn": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Centre Medical du Nord - Cardiology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Internal Medecine Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Orthopaedic Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Surgery Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Dinesh Kumar Bukhory": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Oncology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Ashvin Chinniah": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Mohammud Hussein Nanhuck": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Gastroenterology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Urvashi Narain-Sookool": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Sir Seewoosagur Ramgoolam National Hospital (SSRNH) - Internal Medicine Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Courier"
+    },
+    "Centre Cardiaque de Pamplemousses": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Dr Warda Bibi Kataully": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Guy Gerard Jacques Gnany": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Paediatric Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Radiology Dept": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Muhammad Ali Abdool": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ffbb78",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Rooveshsingh Shyam Davin Mohadeb": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Mr Mohamad Adil Shah Hobass": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Pathology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Pharmacie de Petite Riviere": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Centre Medical du Nord": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Newton Pharmacy": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Clinique Ferri\u00e8re de Bon Secours - Gynaecology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Sr Pravesh Dabedeen": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Haneesh Amit Domah": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Vimal S Gobin": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Vimal Singh Gobin": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Bambous Medicare": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Jeremy Hon Pin": {
+        "primary_color": "#d62728",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Dr Mohamed Afzal Curimbacus": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Raveendra Woodun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Artemis Curepipe Hospital": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Pharmacie Careplus": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Mukhesh (Mike) Sooknundun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Ireland Blyth Healthcare (IBL) - Medical Trading (Head Office)": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#aec7e8",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Abdool Yashin Mahamodhossen": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Sandip Naidoo Vencatakistnen": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Dr Lolldharry": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "C-Care Wellkin - Oncology Dept": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Courier"
+    },
+    "Mr Vinesh Sirkar": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Mr Dindoyal Devashi Shona Chadee": {
+        "primary_color": "#d62728",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Muhammad Ziyaad Carrimkhan": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Victoria Hospital - Oncology Dept": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Ushadevi Gungapersand": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Gnany G G J": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Laila Shaleena Chhaya Lilawatee Seewoo Prasad-Chooromoney": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Dr Kayutashna Seetul-Oodun": {
+        "primary_color": "#d62728",
+        "secondary_color": "#ff9896",
+        "font": "Times-Roman"
+    },
+    "Dr Khalill Rassoolbye Ramjane": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Courier"
+    },
+    "Artemis Curepipe Hospital - Oncology Dept": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Carrimkhan M Z": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Seewoosagur Mahatikesvar Ramburn": {
+        "primary_color": "#1f77b4",
+        "secondary_color": "#c5b0d5",
+        "font": "Times-Roman"
+    },
+    "Dr Monesh Kumar Sungkur": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ff9896",
+        "font": "Courier"
+    },
+    "Dr Yashvin Namah": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#aec7e8",
+        "font": "Times-Roman"
+    },
+    "Lolldharry A M P": {
+        "primary_color": "#d62728",
+        "secondary_color": "#98df8a",
+        "font": "Times-Roman"
+    },
+    "Mr Pravesh Ramluggun": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#c5b0d5",
+        "font": "Courier"
+    },
+    "Dr Vanisha Chummun": {
+        "primary_color": "#ff7f0e",
+        "secondary_color": "#ffbb78",
+        "font": "Times-Roman"
+    },
+    "Love Life Pharmacy - Quatre Bornes": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#98df8a",
+        "font": "Helvetica-Bold"
+    },
+    "Dr Neha Devi Goorah": {
+        "primary_color": "#9467bd",
+        "secondary_color": "#c5b0d5",
+        "font": "Helvetica-Bold"
+    },
+    "Pharmacie Vinesh": {
+        "primary_color": "#2ca02c",
+        "secondary_color": "#ff9896",
+        "font": "Helvetica-Bold"
+    }
+}
